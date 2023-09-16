@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dafff90e-fab7-427a-b743-eb7d61a6e966" name="Changes" comment="+sqrt_x">
-      <change beforePath="$PROJECT_DIR$/Easy/sqrt_x.py" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/sqrt_x.py" afterDir="false" />
+    <list default="true" id="dafff90e-fab7-427a-b743-eb7d61a6e966" name="Changes" comment="+sqrt_x (remastered)">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +64,21 @@
       <option name="project" value="LOCAL" />
       <updated>1694859365772</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="+sqrt_x (remastered)">
+      <created>1694859700972</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1694859700972</updated>
+    </task>
+    <task id="LOCAL-00005" summary="+sqrt_x (remastered)">
+      <created>1694859768719</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1694859768719</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -82,6 +96,7 @@
     <MESSAGE value="+palindrome_number" />
     <MESSAGE value="+two_sum" />
     <MESSAGE value="+sqrt_x" />
-    <option name="LAST_COMMIT_MESSAGE" value="+sqrt_x" />
+    <MESSAGE value="+sqrt_x (remastered)" />
+    <option name="LAST_COMMIT_MESSAGE" value="+sqrt_x (remastered)" />
   </component>
 </project>
