@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dafff90e-fab7-427a-b743-eb7d61a6e966" name="Changes" comment="+sqrt_x (remastered)">
+    <list default="true" id="dafff90e-fab7-427a-b743-eb7d61a6e966" name="Changes" comment="+rank_scores">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694859768719</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="+rank_scores">
+      <created>1694872211600</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1694872211600</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -97,6 +104,7 @@
     <MESSAGE value="+two_sum" />
     <MESSAGE value="+sqrt_x" />
     <MESSAGE value="+sqrt_x (remastered)" />
-    <option name="LAST_COMMIT_MESSAGE" value="+sqrt_x (remastered)" />
+    <MESSAGE value="+rank_scores" />
+    <option name="LAST_COMMIT_MESSAGE" value="+rank_scores" />
   </component>
 </project>
