@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dafff90e-fab7-427a-b743-eb7d61a6e966" name="Changes" comment="+products">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="dafff90e-fab7-427a-b743-eb7d61a6e966" name="Changes" comment="+article_views" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -127,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694907118238</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="+article_views">
+      <created>1694953005803</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1694953005803</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -151,6 +156,7 @@
     <MESSAGE value="+big country" />
     <MESSAGE value="+game_analysis" />
     <MESSAGE value="+products" />
-    <option name="LAST_COMMIT_MESSAGE" value="+products" />
+    <MESSAGE value="+article_views" />
+    <option name="LAST_COMMIT_MESSAGE" value="+article_views" />
   </component>
 </project>
