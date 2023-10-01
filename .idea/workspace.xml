@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dafff90e-fab7-427a-b743-eb7d61a6e966" name="Changes" comment="+invalid_tweet">
+    <list default="true" id="dafff90e-fab7-427a-b743-eb7d61a6e966" name="Changes" comment="+reverse_integer">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -141,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694956296652</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="+reverse_integer">
+      <created>1696163568912</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1696163568912</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -167,6 +174,7 @@
     <MESSAGE value="+products" />
     <MESSAGE value="+article_views" />
     <MESSAGE value="+invalid_tweet" />
-    <option name="LAST_COMMIT_MESSAGE" value="+invalid_tweet" />
+    <MESSAGE value="+reverse_integer" />
+    <option name="LAST_COMMIT_MESSAGE" value="+reverse_integer" />
   </component>
 </project>
