@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dafff90e-fab7-427a-b743-eb7d61a6e966" name="Changes" comment="+divide_two_integers">
+    <list default="true" id="dafff90e-fab7-427a-b743-eb7d61a6e966" name="Changes" comment="+eiler_solve">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +34,11 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Medium" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -155,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696177436753</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="+eiler_solve">
+      <created>1697637378176</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1697637378176</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -183,6 +195,7 @@
     <MESSAGE value="+invalid_tweet" />
     <MESSAGE value="+reverse_integer" />
     <MESSAGE value="+divide_two_integers" />
-    <option name="LAST_COMMIT_MESSAGE" value="+divide_two_integers" />
+    <MESSAGE value="+eiler_solve" />
+    <option name="LAST_COMMIT_MESSAGE" value="+eiler_solve" />
   </component>
 </project>

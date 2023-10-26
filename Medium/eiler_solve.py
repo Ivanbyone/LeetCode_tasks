@@ -1,5 +1,5 @@
 from time import perf_counter
-from numba import jit, prange
+from numba import jit
 
 
 @jit(nopython=True, fastmath=True)
